@@ -9,7 +9,8 @@ Hola
 <body>
 	Hola
 <<?php 
-echo "trabajo";?>
+echo "trabajo";
+?>
 
 
 </body>
